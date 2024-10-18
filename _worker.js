@@ -24,7 +24,7 @@ let addressesnotlsapi = [
 
 let DLS = 8;//速度下限
 let addressescsv = [
-	//'https://raw.githubusercontent.com/q4549286/WorkerVless2sub/refs/heads/main/addressescsv.csv', //iptest测速结果文件。
+	'https://raw.githubusercontent.com/q4549286/WorkerVless2sub/refs/heads/main/ip.csv', //iptest测速结果文件。
 ];
 
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
